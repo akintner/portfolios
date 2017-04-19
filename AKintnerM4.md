@@ -2,7 +2,9 @@
 
 ## Areas of Emphasis
 
-I will admit I entered Mod 4 warily. After hearing the tales of the last 3 graduating cohorts, I approached the final mod with something rather akin to dread. I set out, therefore, to learn as much as I could from whatever the module would hold, which ended up being quite a bit about Javascript, a bit about React, and more advanced, production-ready facts about Rails. The four weeks I did complete of Mod 4 were interesting, I learned a great deal, and I discovered that my trepidation was only partially merited. The mod was far from easy, with the first week for me being a complete and utter nightmare of work and conflicting obligations. What kept my time from being entirely soul-crushing, however, was the fact that the instructors, and Casey in particular, helped me negotiate the various demands of the job hunt,  technical interviews, and school work. 
+The end of April and of my time at Turing marks an exit from what I've been lovingly referring to as "26th grade." I will admit I entered Mod 4 warily, part of which was due to exhaustion and burn-out and part of which was due to the woeful, stress-filled tales of the last three graduating cohorts. For these reasons, I approached the final mod with something rather akin to dread. To help overcome this, I set out to learn as much as I could from whatever the module would hold, which ended up being quite a bit about Javascript, a week of work in Node, a moderate amount about React, and more advanced, production-level facts and tidbits about Rails. The four weeks I did complete of Mod 4 were interesting, I learned a great deal, and I discovered that my trepidation was only partially merited. The mod was far from easy, with the first week for me being a complete and utter nightmare of work and conflicting obligations. What kept me from dropping out of the 26th grade, however, was the fact that the instructors - and Casey in particular - helped me negotiate the various demands of the job hunt, technical interviews, and school work. This mod never could have happened without the help and support of the Turing staff, and it is to them that I owe part of my success and most of my sanity. 
+<br>
+One final note: as I was only at Turing for three and a half weeks of this mod, many of the sections below contain partial information. To compensate for this - and because I'm an academic who loves words, writing, and everything literary - I've added an extra section to the end of my portfolio that attempts to offer commentary about the move from Turing into the wild west of actual software development. 
 
 ## Rubric Scores
 
@@ -34,7 +36,7 @@ For my main contribution, I added Faker::StarTrek to the faker gem library. It w
 
 ### Projects
 
-We had two group project this Mod: the first week was Quantified Self, a wholly Javascript project without a backend at all (eek), and the Capstone project, Johari Window.
+We had two group project this Mod: the first week was Quantified Self, a Javascript project without a backend at all (eek), and the Capstone project, Johari Window, which was a React app that worked in tandem with a Rails API.
 
 #### Quantified Self
 
@@ -45,17 +47,17 @@ This project was a food-tracking front-end built with Javascript and JQuery.
 
 
 #### Eval: 
-- ** Specification Adherence = 3: Application implements all functionality as defined, but some bugs or strange behavior where features intersect**
+- Specification Adherence = 3: Application implements all functionality as defined, but some bugs or strange behavior where features intersect
 
-- **Testing = 2: More functionality implemented than tested or only uses one test type**
+- Testing = 2: More functionality implemented than tested or only uses one test type
 
-- ** HTML/UI = 3: Application is not confusing to use. HTML classes and IDs are kebab case.**
+- HTML/UI = 3: Application is not confusing to use. HTML classes and IDs are kebab case.
 
-- ** JS syntax and Style = 3: Code logically divided into files. Developer can show examples of some SOLID concepts. Attention payed to indentation and naming.**
+- JS syntax and Style = 3: Code logically divided into files. Developer can show examples of some SOLID concepts. Attention payed to indentation and naming.
 
-- ** Git Workflow = 4: Team uses master for production, and creates a feature branch for each card worked on. Team is using pull requests with good context and conversation**
+- Git Workflow = 4: Team uses master for production, and creates a feature branch for each card worked on. Team is using pull requests with good context and conversation
 
-- ** Project Management = 4: Team is using a project management tool and updating their progress daily. Team is approving each other's  work. Team is documenting conversations and conclusions on relevant cards.**
+- Project Management = 4: Team is using a project management tool and updating their progress daily. Team is approving each other's  work. Team is documenting conversations and conclusions on relevant cards.
 
 #### Capstone Project: Johari Window
 
@@ -81,7 +83,17 @@ Our outline is here: (https://github.com/turingschool/gear-up/pull/22/commits/e7
 
 ### Playing a Part
 
-I independently reviewed the cover letters of a number of students at Turing this mod, including Drew from our Mod.
+This mod was a whirlwind of activity that. From my vantage point now, the work from weeks one and two seem like a distant part of my past that could have taken place a year ago. But that's untrue, and my help to the Turing community began that first week when Drew and I spent almost all of every day in the pairing alley. Our companions for much of that time were Max and Edeline (of Mod 3), who were working on their Rails-engine project, with which Drew and I helped on a number of occasions. I also paired with a selection of Mod 1 BE students during the second week while they were doing their first group project. Mostly I assisted with Git issues, all the while fondly remembering how much of a terrible, confusing haze GitHub was to me back then. 
+<br>
+Additionally, I spent some time this Mod talking with Jeff one-on-one about the problems with morale in mod4; during this sessions, Jeff and I discussed the idea of making all work take place in week-long sprints, including the capstone project. After our discussion, Jeff and the other mod 4 instructors turned this into a reality. Numerous students over the next two weeks mentioned how wonderful this was - not everyone, but most of us - and I'm glad to have taken part in that decision, as I also think it helped ease the strain of Turing work and job-hunting tremendously. 
+<br>
+I also, after discussion with Anna Dolan, Emily Freeman, and Sal Espinosa, decided to make use of my total lack of fear regarding public speaking and give a lightening talk for the whole school. It ended up being far more impromptu than I'd intended, as I signed up for one in the third week, but ended up giving mine in the second after another Mod 4 colleague admitted that she had too much to do and was panicking. I stepped into her spot for the talk and gave mine instead. 
+<br>
+I also, at Drew's insistence, helped a few of our cohort members with their cover letters. I'm not sure why I’ve had the job-hunt success that I have, but I was glad to help with a few pointers on style and content in various cover letters, and I would be willing to continue that role at Turing, if needed. 
+
+### Transition Into the 'Real' World: Dr. Kintner Gets a Software Development Job
+
+
 ------------------
 
 ## Final Review
