@@ -31,6 +31,7 @@ For my OSS contributions, I spent the weekend of April 8-9 volunteering at a Go 
 <br>
 For my main contribution, I added Faker::StarTrek to the faker gem library. It was both fun and interesting joining in with the OS community, and I had some communication with the gem’s creator, Benjamin, on my PR after I’d mistakenly made all my methods plural (and they’re supposed to be singular as only one object is returned when the methods are called, though that’s not outlined in the docs anywhere). I think that PR got merged in a few days back, so I’ve officially made a Faker library. Live long and prosper. 
 
+- **[Here is my blog post about the OS process](https://gist.github.com/akintner/e585df3a3fef3efca62bb3da45701fe1)
 
 ## C: Group Work & Projects
 
