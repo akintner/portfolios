@@ -101,9 +101,12 @@ Our outline is here: (https://github.com/turingschool/gear-up/pull/22/commits/e7
 
 This mod was a whirlwind of activity that. From my vantage point now, the work from weeks one and two seem like a distant part of my past that could have taken place a year ago. But that's untrue, and my help to the Turing community began that first week when Drew and I spent almost all of every day in the pairing alley. Our companions for much of that time were Max and Edeline (of Mod 3), who were working on their Rails-engine project, with which Drew and I helped on a number of occasions. I also paired with a selection of Mod 1 BE students during the second week while they were doing their first group project. Mostly I assisted with Git issues, all the while fondly remembering how much of a terrible, confusing haze GitHub was to me back then. 
 <br>
+<br>
 Additionally, I spent some time this Mod talking with Jeff one-on-one about the problems with morale in mod4; during this sessions, Jeff and I discussed the idea of making all work take place in week-long sprints, including the capstone project. After our discussion, Jeff and the other mod 4 instructors turned this into a reality. Numerous students over the next two weeks mentioned how wonderful this was - not everyone, but most of us - and I'm glad to have taken part in that decision, as I also think it helped ease the strain of Turing work and job-hunting tremendously. 
 <br>
-I also, after discussion with Anna Dolan, Emily Freeman, and Sal Espinosa, decided to make use of my total lack of fear regarding public speaking and give a lightening talk for the whole school. It ended up being far more impromptu than I'd intended, as I signed up for one in the third week, but ended up giving mine in the second after another Mod 4 colleague admitted that she had too much to do and was panicking. I stepped into her spot for the talk and gave mine instead. 
+<br>
+After discussion with Anna Dolan, Emily Freeman, and Sal Espinosa about the fact that so very few women give lightening talks to the whole school, I decided to make use of my total lack of fear regarding public speaking and give one. It ended up being far more impromptu than I'd intended, as I signed up for one in the third week, but ended up giving mine in the second after another Mod 4 colleague admitted that she had too much to do and was panicking. I stepped into her spot for the talk and gave mine instead. 
+<br>
 <br>
 I also, at Drew's insistence, helped a few of our cohort members with their cover letters. I'm not sure why I’ve had the job-hunt success that I have, but I was glad to help with a few pointers on style and content in various cover letters, and I would be willing to continue that role at Turing, if needed. 
 
