@@ -5,10 +5,13 @@
 The end of April and of my time at Turing marks an exit from what I've been lovingly referring to as "26th grade." I will admit I entered Mod 4 warily, part of which was due to exhaustion and burn-out and part of which was due to the woeful, stress-filled tales of the last three graduating cohorts. For these reasons, I approached the final mod with something rather akin to dread. To help overcome this, I set out to learn as much as I could from whatever the module would hold, which ended up being quite a bit about Javascript, a week of work in Node, a moderate amount about React, and more advanced, production-level facts and tidbits about Rails. The four weeks I did complete of Mod 4 were interesting, I learned a great deal, and I discovered that my trepidation was only partially merited. The mod was far from easy, with the first week for me being a complete and utter nightmare of work and conflicting obligations. What kept me from dropping out of the 26th grade, however, was the fact that the instructors - and Casey in particular - helped me negotiate the various demands of the job hunt, technical interviews, and school work. This mod never could have happened without the help and support of the Turing staff, and it is to them that I owe part of my success and most of my sanity. 
 <br>
 One final note: as I was only at Turing for three and a half weeks of this mod, many of the sections below contain partial information. To compensate for this - and because I'm an academic who loves words, writing, and everything literary - I've added an extra section to the end of my portfolio that attempts to offer commentary about the move from Turing into the wild west of actual software development. 
-
+<br>
+<br>
+[Amy Kintner's Final Turing Profile](https://www.turing.io/user)
+<br>
 ## Rubric Scores
 
-* **A: End-of-Module Assessment**: ?
+* **A: End-of-Module Assessment**: 3
 * **B: Individual Work & Projects**: 3
 * **C: Group Work & Projects**: 3
 * **D: Professional Skills**: 4
