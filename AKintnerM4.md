@@ -21,7 +21,19 @@ One final note: as I was only at Turing for three and a half weeks of this mod, 
 
 ## A: End of Module Assessment
 
-(Notes & scores from your assessment rubric)
+- Satisfactory Progress = 3: Developer completes sections 1 through 5 minor bugs and no missing functionality.
+
+- Ruby & Rails Style & API = 3: Developer generally writes clean Rails features that make smart use of Ruby, with some struggles in pushing logic down the stack. The application displays good judgement in modeling the problem as data. Developer can speak to choices made in the code and knows what every line of code is doing.
+
+- Javascript Syntax & Style = 3: Developer writes solid Javascript code using common patterns and idioms. Code is organized appropriately within objects and functions. Developer can speak to choices made in the code and knows what every line of code is doing.
+
+- Testing = 3: Developer writes tests that are effective validation of functionality, but don't drive the design. Developer uses integration tests, controller tests, and model tests where appropriate.
+
+- User Interface = 3: The application has many strong pages/interactions, but a few holes in lesser-used functionality.
+
+- Documentation (NOT GRADED) = 2: Project features barebones documentation showing how to get the dev environment up and running
+
+- Workflow = 3: The developer makes a series of small, atomic commits that document the evolution of their application. There are no formatting issues in the code base.
 
 
 ## B: Individual Work & Projects
@@ -34,7 +46,7 @@ For my OSS contributions, I spent the weekend of April 8-9 volunteering at a Go 
 <br>
 For my main contribution, I added Faker::StarTrek to the faker gem library. It was both fun and interesting joining in with the OS community, and I had some communication with the gem’s creator, Benjamin, on my PR after I’d mistakenly made all my methods plural (and they’re supposed to be singular as only one object is returned when the methods are called, though that’s not outlined in the docs anywhere). I think that PR got merged in a few days back, so I’ve officially made a Faker library. Live long and prosper. 
 
-- **[Here is my blog post about the OS process](https://gist.github.com/akintner/e585df3a3fef3efca62bb3da45701fe1)
+- [Here is my blog post about the OS process](https://gist.github.com/akintner/e585df3a3fef3efca62bb3da45701fe1)
 
 ## C: Group Work & Projects
 
@@ -94,9 +106,6 @@ Additionally, I spent some time this Mod talking with Jeff one-on-one about the 
 I also, after discussion with Anna Dolan, Emily Freeman, and Sal Espinosa, decided to make use of my total lack of fear regarding public speaking and give a lightening talk for the whole school. It ended up being far more impromptu than I'd intended, as I signed up for one in the third week, but ended up giving mine in the second after another Mod 4 colleague admitted that she had too much to do and was panicking. I stepped into her spot for the talk and gave mine instead. 
 <br>
 I also, at Drew's insistence, helped a few of our cohort members with their cover letters. I'm not sure why I’ve had the job-hunt success that I have, but I was glad to help with a few pointers on style and content in various cover letters, and I would be willing to continue that role at Turing, if needed. 
-
-### Transition Into the 'Real' World: Dr. Kintner Gets a Software Development Job
-
 
 ------------------
 
